@@ -1,0 +1,659 @@
+[2025-04-01T16:13:34.159-0500] {processor.py:186} INFO - Started process (PID=3992) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:13:34.160-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:13:34.162-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:34.162-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:13:34.255-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:13:35.683-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:35.682-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2025-04-01T16:13:36.378-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:36.377-0500] {override.py:1930} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2025-04-01T16:13:36.577-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:36.576-0500] {override.py:1930} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2025-04-01T16:13:36.875-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:36.874-0500] {override.py:1930} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2025-04-01T16:13:36.997-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:36.996-0500] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2025-04-01T16:13:37.196-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:37.195-0500] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2025-04-01T16:13:37.265-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:37.264-0500] {override.py:1930} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2025-04-01T16:13:37.266-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:37.265-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:13:37.334-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:37.334-0500] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2025-04-01T16:13:37.336-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:13:37.335-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:13:37.442-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 3.292 seconds
+[2025-04-01T16:16:08.807-0500] {processor.py:186} INFO - Started process (PID=4053) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:16:08.808-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:16:08.810-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:16:08.810-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:16:08.898-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:16:08.980-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:16:08.979-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:16:08.990-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:16:08.989-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:16:09.058-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.259 seconds
+[2025-04-01T16:18:09.233-0500] {processor.py:186} INFO - Started process (PID=4124) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:18:09.234-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:18:09.237-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:18:09.236-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:18:09.295-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:18:09.315-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:18:09.314-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:18:09.324-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:18:09.324-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:18:09.411-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.187 seconds
+[2025-04-01T16:19:08.070-0500] {processor.py:186} INFO - Started process (PID=4176) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:08.071-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:19:08.073-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:08.072-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:08.126-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:08.144-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:08.143-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:19:08.153-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:08.152-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:19:08.230-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.167 seconds
+[2025-04-01T16:19:53.337-0500] {processor.py:186} INFO - Started process (PID=4211) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:53.338-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:19:53.340-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:53.340-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:53.394-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:19:53.412-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:53.411-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:19:53.421-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:19:53.420-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:19:53.504-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.175 seconds
+[2025-04-01T16:20:37.087-0500] {processor.py:186} INFO - Started process (PID=4250) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:20:37.088-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:20:37.090-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:20:37.090-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:20:37.148-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:20:37.167-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:20:37.166-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:20:37.177-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:20:37.176-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:20:37.259-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.181 seconds
+[2025-04-01T16:21:19.655-0500] {processor.py:186} INFO - Started process (PID=4283) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:21:19.656-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:21:19.659-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:21:19.658-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:21:19.712-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:21:19.729-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:21:19.728-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:21:19.738-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:21:19.737-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:21:19.816-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.168 seconds
+[2025-04-01T16:22:06.411-0500] {processor.py:186} INFO - Started process (PID=4320) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:22:06.412-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:22:06.415-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:22:06.414-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:22:06.473-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:22:06.494-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:22:06.493-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:22:06.505-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:22:06.504-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:22:06.599-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.196 seconds
+[2025-04-01T16:23:28.515-0500] {processor.py:186} INFO - Started process (PID=4386) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:23:28.516-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:23:28.518-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:23:28.517-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:23:28.571-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:23:28.590-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:23:28.589-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:23:28.600-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:23:28.599-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:23:28.670-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.163 seconds
+[2025-04-01T16:24:15.288-0500] {processor.py:186} INFO - Started process (PID=4422) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:24:15.289-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:24:15.292-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:24:15.291-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:24:15.345-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:24:15.364-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:24:15.364-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:24:15.374-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:24:15.373-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:24:15.476-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T16:25:04.300-0500] {processor.py:186} INFO - Started process (PID=4458) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:04.302-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:25:04.304-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:04.303-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:04.357-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:04.374-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:04.374-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:25:04.383-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:04.382-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:25:04.467-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.174 seconds
+[2025-04-01T16:25:48.840-0500] {processor.py:186} INFO - Started process (PID=4492) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:48.841-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:25:48.843-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:48.842-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:48.896-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:25:48.913-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:48.912-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:25:48.922-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:25:48.922-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:25:49.082-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.250 seconds
+[2025-04-01T16:26:36.545-0500] {processor.py:186} INFO - Started process (PID=4529) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:26:36.546-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:26:36.548-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:26:36.547-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:26:36.602-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:26:36.619-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:26:36.618-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:26:36.630-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:26:36.629-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:26:36.713-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.176 seconds
+[2025-04-01T16:27:24.315-0500] {processor.py:186} INFO - Started process (PID=4564) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:27:24.316-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:27:24.318-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:27:24.318-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:27:24.373-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:27:24.393-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:27:24.392-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:27:24.403-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:27:24.402-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:27:24.488-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.181 seconds
+[2025-04-01T16:28:10.460-0500] {processor.py:186} INFO - Started process (PID=4600) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:10.461-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:28:10.463-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:10.463-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:10.518-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:10.537-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:10.536-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:28:10.547-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:10.546-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:28:10.628-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.175 seconds
+[2025-04-01T16:28:53.265-0500] {processor.py:186} INFO - Started process (PID=4635) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:53.266-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:28:53.268-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:53.267-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:53.322-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:28:53.341-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:53.340-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:28:53.351-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:28:53.350-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:28:53.442-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.184 seconds
+[2025-04-01T16:29:41.535-0500] {processor.py:186} INFO - Started process (PID=4671) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:29:41.536-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:29:41.538-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:29:41.537-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:29:41.591-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:29:41.609-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:29:41.608-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:29:41.618-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:29:41.617-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:29:41.692-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.166 seconds
+[2025-04-01T16:30:27.050-0500] {processor.py:186} INFO - Started process (PID=4707) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:30:27.051-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:30:27.054-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:30:27.053-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:30:27.107-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:30:27.125-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:30:27.124-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:30:27.134-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:30:27.134-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:30:27.221-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.179 seconds
+[2025-04-01T16:31:11.250-0500] {processor.py:186} INFO - Started process (PID=4742) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:31:11.251-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:31:11.253-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:31:11.253-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:31:11.307-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:31:11.324-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:31:11.323-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:31:11.334-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:31:11.333-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:31:11.434-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.192 seconds
+[2025-04-01T16:32:01.093-0500] {processor.py:186} INFO - Started process (PID=4777) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:01.094-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:32:01.097-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:01.096-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:01.150-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:01.168-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:01.167-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:32:01.177-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:01.176-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:32:01.258-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.173 seconds
+[2025-04-01T16:32:50.039-0500] {processor.py:186} INFO - Started process (PID=4815) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:50.040-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:32:50.042-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:50.041-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:50.096-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:32:50.116-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:50.115-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:32:50.126-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:32:50.125-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:32:50.212-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.181 seconds
+[2025-04-01T16:33:34.859-0500] {processor.py:186} INFO - Started process (PID=4851) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:33:34.861-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:33:34.863-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:33:34.862-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:33:34.916-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:33:34.933-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:33:34.932-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:33:34.942-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:33:34.941-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:33:35.031-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.179 seconds
+[2025-04-01T16:34:16.306-0500] {processor.py:186} INFO - Started process (PID=4885) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:34:16.307-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:34:16.309-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:34:16.308-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:34:18.859-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:34:18.876-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:34:18.875-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:34:18.885-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:34:18.885-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:34:18.972-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.178 seconds
+[2025-04-01T16:35:02.618-0500] {processor.py:186} INFO - Started process (PID=4920) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:02.619-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:35:02.621-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:02.620-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:02.674-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:02.691-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:02.691-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:35:02.701-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:02.700-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:35:02.819-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.209 seconds
+[2025-04-01T16:35:43.952-0500] {processor.py:186} INFO - Started process (PID=4954) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:43.953-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:35:43.956-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:43.955-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:44.011-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:35:44.029-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:44.028-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:35:44.038-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:35:44.037-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:35:44.107-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.162 seconds
+[2025-04-01T16:36:30.811-0500] {processor.py:186} INFO - Started process (PID=4988) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:36:30.812-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:36:30.814-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:36:30.813-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:36:30.868-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:36:30.889-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:36:30.888-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:36:30.899-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:36:30.898-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:36:30.994-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.192 seconds
+[2025-04-01T16:37:21.337-0500] {processor.py:186} INFO - Started process (PID=5025) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:37:21.338-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:37:21.340-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:37:21.339-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:37:21.394-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:37:21.412-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:37:21.411-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:37:21.421-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:37:21.421-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:37:21.520-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.191 seconds
+[2025-04-01T16:38:04.754-0500] {processor.py:186} INFO - Started process (PID=5058) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:04.755-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:38:04.757-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:04.756-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:04.810-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:04.828-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:04.827-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:38:04.837-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:04.836-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:38:04.942-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.196 seconds
+[2025-04-01T16:38:48.969-0500] {processor.py:186} INFO - Started process (PID=5094) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:48.971-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:38:48.973-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:48.972-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:49.027-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:38:49.046-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:49.046-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:38:49.056-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:38:49.056-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:38:49.168-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.207 seconds
+[2025-04-01T16:39:37.731-0500] {processor.py:186} INFO - Started process (PID=5128) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:39:37.732-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:39:37.734-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:39:37.733-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:39:37.791-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:39:37.887-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:39:37.887-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:39:37.897-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:39:37.896-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:39:38.013-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.290 seconds
+[2025-04-01T16:40:24.670-0500] {processor.py:186} INFO - Started process (PID=5166) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:40:24.671-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:40:24.673-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:40:24.673-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:40:24.727-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:40:24.746-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:40:24.745-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:40:24.757-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:40:24.756-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:40:24.858-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T16:41:11.462-0500] {processor.py:186} INFO - Started process (PID=5201) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:41:11.463-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:41:11.465-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:41:11.464-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:41:11.519-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:41:11.536-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:41:11.535-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:41:11.545-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:41:11.544-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:41:11.622-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.168 seconds
+[2025-04-01T16:42:03.773-0500] {processor.py:186} INFO - Started process (PID=5239) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:03.774-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:42:03.776-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:03.775-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:03.830-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:03.847-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:03.846-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:42:03.856-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:03.856-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:42:03.945-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.180 seconds
+[2025-04-01T16:42:49.723-0500] {processor.py:186} INFO - Started process (PID=5274) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:49.724-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:42:49.726-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:49.725-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:49.783-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:42:49.821-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:49.820-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:42:49.831-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:42:49.830-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:42:49.931-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.217 seconds
+[2025-04-01T16:43:37.262-0500] {processor.py:186} INFO - Started process (PID=5309) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:43:37.263-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:43:37.266-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:43:37.265-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:43:37.325-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:43:37.344-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:43:37.343-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:43:37.354-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:43:37.353-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:43:37.465-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.212 seconds
+[2025-04-01T16:44:23.209-0500] {processor.py:186} INFO - Started process (PID=5344) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:44:23.210-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:44:23.212-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:44:23.212-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:44:23.266-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:44:23.283-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:44:23.282-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:44:23.292-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:44:23.291-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:44:23.399-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.197 seconds
+[2025-04-01T16:45:08.188-0500] {processor.py:186} INFO - Started process (PID=5380) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:08.189-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:45:08.191-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:08.191-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:08.247-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:08.264-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:08.263-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:45:08.273-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:08.272-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:45:08.347-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.167 seconds
+[2025-04-01T16:45:58.342-0500] {processor.py:186} INFO - Started process (PID=5416) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:58.343-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:45:58.345-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:58.344-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:58.399-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:45:58.416-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:58.415-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:45:58.426-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:45:58.425-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:45:58.521-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.187 seconds
+[2025-04-01T16:46:49.248-0500] {processor.py:186} INFO - Started process (PID=5453) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:46:49.249-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:46:49.251-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:46:49.250-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:46:49.303-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:46:49.320-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:46:49.320-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:46:49.329-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:46:49.328-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:46:49.429-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.188 seconds
+[2025-04-01T16:47:35.428-0500] {processor.py:186} INFO - Started process (PID=5489) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:47:35.429-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:47:35.431-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:47:35.430-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:47:35.483-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:47:35.500-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:47:35.500-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:47:35.509-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:47:35.508-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:47:35.610-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.190 seconds
+[2025-04-01T16:48:23.339-0500] {processor.py:186} INFO - Started process (PID=5525) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:48:23.340-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:48:23.342-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:48:23.342-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:48:23.395-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:48:23.413-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:48:23.413-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:48:23.423-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:48:23.422-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:48:23.524-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.192 seconds
+[2025-04-01T16:49:07.391-0500] {processor.py:186} INFO - Started process (PID=5558) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:07.393-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:49:07.395-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:07.394-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:07.450-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:07.467-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:07.467-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:49:07.477-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:07.476-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:49:07.586-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.202 seconds
+[2025-04-01T16:49:50.216-0500] {processor.py:186} INFO - Started process (PID=5594) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:50.217-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:49:50.219-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:50.218-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:50.271-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:49:50.288-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:50.288-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:49:50.298-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:49:50.297-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:49:50.399-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.191 seconds
+[2025-04-01T16:50:33.373-0500] {processor.py:186} INFO - Started process (PID=5627) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:50:33.374-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:50:33.377-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:50:33.376-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:50:33.429-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:50:33.447-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:50:33.446-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:50:33.455-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:50:33.455-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:50:33.573-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.208 seconds
+[2025-04-01T16:51:25.045-0500] {processor.py:186} INFO - Started process (PID=5664) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:51:25.046-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:51:25.048-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:51:25.047-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:51:25.102-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:51:25.120-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:51:25.119-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:51:25.129-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:51:25.129-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:51:25.240-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.204 seconds
+[2025-04-01T16:52:14.195-0500] {processor.py:186} INFO - Started process (PID=5701) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:52:14.196-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:52:14.199-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:52:14.198-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:52:14.252-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:52:14.270-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:52:14.269-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:52:14.280-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:52:14.279-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:52:14.377-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.189 seconds
+[2025-04-01T16:53:04.562-0500] {processor.py:186} INFO - Started process (PID=5737) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:04.563-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:53:04.565-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:04.565-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:04.618-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:04.637-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:04.636-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:53:04.646-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:04.646-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:53:04.777-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.223 seconds
+[2025-04-01T16:53:51.461-0500] {processor.py:186} INFO - Started process (PID=5773) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:51.462-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:53:51.464-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:51.463-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:51.517-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:53:51.534-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:51.534-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:53:51.544-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:53:51.543-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:53:51.641-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.188 seconds
+[2025-04-01T16:54:38.091-0500] {processor.py:186} INFO - Started process (PID=5809) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:54:38.092-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:54:38.094-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:54:38.094-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:54:38.148-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:54:38.165-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:54:38.165-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:54:38.174-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:54:38.174-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:54:38.269-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.186 seconds
+[2025-04-01T16:55:26.769-0500] {processor.py:186} INFO - Started process (PID=5845) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:55:26.770-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:55:26.773-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:55:26.772-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:55:26.828-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:55:26.847-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:55:26.847-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:55:26.858-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:55:26.857-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:55:26.959-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.198 seconds
+[2025-04-01T16:56:11.586-0500] {processor.py:186} INFO - Started process (PID=5880) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:11.587-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:56:11.589-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:11.588-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:11.644-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:11.661-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:11.660-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:56:11.670-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:11.669-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:56:11.773-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T16:56:59.331-0500] {processor.py:186} INFO - Started process (PID=5917) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:59.332-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:56:59.334-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:59.333-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:59.387-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:56:59.406-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:59.406-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:56:59.417-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:56:59.416-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:56:59.518-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T16:57:46.178-0500] {processor.py:186} INFO - Started process (PID=5952) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:57:46.179-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:57:46.181-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:57:46.180-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:57:46.234-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:57:46.252-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:57:46.252-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:57:46.262-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:57:46.261-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:57:46.372-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.202 seconds
+[2025-04-01T16:58:30.761-0500] {processor.py:186} INFO - Started process (PID=5986) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:58:30.763-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:58:30.765-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:58:30.764-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:58:30.818-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:58:30.835-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:58:30.834-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:58:30.844-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:58:30.844-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:58:30.941-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.187 seconds
+[2025-04-01T16:59:17.931-0500] {processor.py:186} INFO - Started process (PID=6022) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:59:17.932-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T16:59:17.934-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:59:17.933-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:59:17.987-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T16:59:18.004-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:59:18.004-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T16:59:18.013-0500] {logging_mixin.py:190} INFO - [2025-04-01T16:59:18.013-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T16:59:18.110-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.186 seconds
+[2025-04-01T17:00:08.310-0500] {processor.py:186} INFO - Started process (PID=6057) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:08.311-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:00:08.314-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:08.313-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:08.368-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:08.385-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:08.385-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:00:08.394-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:08.394-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:00:08.495-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.193 seconds
+[2025-04-01T17:00:56.134-0500] {processor.py:186} INFO - Started process (PID=6093) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:56.135-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:00:56.137-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:56.137-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:56.189-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:00:56.206-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:56.206-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:00:56.215-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:00:56.214-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:00:56.380-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.254 seconds
+[2025-04-01T17:01:41.939-0500] {processor.py:186} INFO - Started process (PID=6129) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:01:41.940-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:01:41.942-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:01:41.941-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:01:41.995-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:01:42.014-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:01:42.014-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:01:42.024-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:01:42.023-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:01:42.121-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.190 seconds
+[2025-04-01T17:02:31.381-0500] {processor.py:186} INFO - Started process (PID=6165) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:02:31.382-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:02:31.384-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:02:31.383-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:02:31.437-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:02:31.456-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:02:31.455-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:02:31.467-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:02:31.466-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:02:31.572-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.199 seconds
+[2025-04-01T17:03:16.987-0500] {processor.py:186} INFO - Started process (PID=6199) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:03:16.988-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:03:16.990-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:03:16.990-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:03:17.043-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:03:17.063-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:03:17.062-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:03:17.072-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:03:17.072-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:03:17.167-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.188 seconds
+[2025-04-01T17:04:05.670-0500] {processor.py:186} INFO - Started process (PID=6236) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:05.671-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:04:05.673-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:05.673-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:05.726-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:05.743-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:05.743-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:04:05.753-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:05.752-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:04:05.856-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.194 seconds
+[2025-04-01T17:04:56.350-0500] {processor.py:186} INFO - Started process (PID=6271) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:56.352-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:04:56.354-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:56.353-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:56.407-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:04:56.424-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:56.424-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:04:56.434-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:04:56.433-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:04:56.544-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.201 seconds
+[2025-04-01T17:05:39.885-0500] {processor.py:186} INFO - Started process (PID=6305) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:05:39.886-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:05:39.889-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:05:39.888-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:05:39.941-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:05:39.958-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:05:39.957-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:05:39.967-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:05:39.967-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:05:40.071-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.193 seconds
+[2025-04-01T17:06:30.387-0500] {processor.py:186} INFO - Started process (PID=6342) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:06:30.388-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:06:30.390-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:06:30.389-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:06:30.442-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:06:30.459-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:06:30.459-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:06:30.469-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:06:30.468-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:06:30.562-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.183 seconds
+[2025-04-01T17:07:20.879-0500] {processor.py:186} INFO - Started process (PID=6380) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:07:20.880-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:07:20.882-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:07:20.882-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:07:20.935-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:07:20.952-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:07:20.952-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:07:20.961-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:07:20.960-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:07:21.076-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.204 seconds
+[2025-04-01T17:08:07.192-0500] {processor.py:186} INFO - Started process (PID=6416) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:07.193-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:08:07.195-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:07.194-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:07.249-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:07.266-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:07.265-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:08:07.275-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:07.275-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:08:07.377-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.193 seconds
+[2025-04-01T17:08:58.365-0500] {processor.py:186} INFO - Started process (PID=6452) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:58.366-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:08:58.368-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:58.367-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:58.423-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:08:58.442-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:58.441-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:08:58.452-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:08:58.451-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:08:58.584-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.226 seconds
+[2025-04-01T17:09:47.863-0500] {processor.py:186} INFO - Started process (PID=6488) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:09:47.864-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:09:47.866-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:09:47.866-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:09:47.919-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:09:47.937-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:09:47.936-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:09:47.946-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:09:47.945-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:09:48.045-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.190 seconds
+[2025-04-01T17:10:35.551-0500] {processor.py:186} INFO - Started process (PID=6524) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:10:35.552-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:10:35.554-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:10:35.554-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:10:35.607-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:10:35.624-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:10:35.623-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:10:35.634-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:10:35.633-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:10:35.736-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.193 seconds
+[2025-04-01T17:11:31.603-0500] {processor.py:186} INFO - Started process (PID=6561) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:11:31.604-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:11:31.606-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:11:31.606-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:11:31.659-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:11:31.679-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:11:31.678-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:11:31.689-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:11:31.688-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:11:31.786-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.191 seconds
+[2025-04-01T17:12:21.332-0500] {processor.py:186} INFO - Started process (PID=6599) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:12:21.333-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:12:21.336-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:12:21.335-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:12:21.388-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:12:21.405-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:12:21.404-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:12:21.414-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:12:21.413-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:12:21.527-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.202 seconds
+[2025-04-01T17:13:12.726-0500] {processor.py:186} INFO - Started process (PID=6637) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:12.728-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:13:12.730-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:12.729-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:12.782-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:12.801-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:12.800-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:13:12.811-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:12.810-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:13:12.920-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.201 seconds
+[2025-04-01T17:13:57.632-0500] {processor.py:186} INFO - Started process (PID=6672) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:57.633-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:13:57.636-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:57.635-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:57.690-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:13:57.709-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:57.708-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:13:57.719-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:13:57.718-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:13:57.821-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.197 seconds
+[2025-04-01T17:14:44.578-0500] {processor.py:186} INFO - Started process (PID=6708) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:14:44.579-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:14:44.582-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:14:44.581-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:14:44.635-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:14:44.652-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:14:44.651-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:14:44.661-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:14:44.660-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:14:44.765-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.194 seconds
+[2025-04-01T17:15:31.053-0500] {processor.py:186} INFO - Started process (PID=6743) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:15:31.054-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:15:31.056-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:15:31.055-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:15:31.114-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:15:31.133-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:15:31.132-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:15:31.143-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:15:31.142-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:15:31.260-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.216 seconds
+[2025-04-01T17:16:17.113-0500] {processor.py:186} INFO - Started process (PID=6778) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:16:17.114-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:16:17.116-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:16:17.115-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:16:17.169-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:16:17.187-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:16:17.186-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:16:17.195-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:16:17.195-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:16:17.307-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.201 seconds
+[2025-04-01T17:17:04.384-0500] {processor.py:186} INFO - Started process (PID=6814) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:04.385-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:17:04.387-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:04.386-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:04.440-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:04.457-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:04.457-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:17:04.466-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:04.466-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:17:04.571-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T17:17:56.431-0500] {processor.py:186} INFO - Started process (PID=6853) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:56.432-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:17:56.434-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:56.433-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:56.487-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:17:56.504-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:56.504-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:17:56.514-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:17:56.513-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:17:56.618-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.195 seconds
+[2025-04-01T17:18:42.556-0500] {processor.py:186} INFO - Started process (PID=6889) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:18:42.557-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:18:42.560-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:18:42.559-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:18:42.613-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:18:42.632-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:18:42.631-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:18:42.642-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:18:42.642-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:18:42.772-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.224 seconds
+[2025-04-01T17:19:36.624-0500] {processor.py:186} INFO - Started process (PID=6926) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:19:36.625-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:19:36.627-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:19:36.627-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:19:36.685-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:19:36.703-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:19:36.702-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:19:36.713-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:19:36.712-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:19:36.828-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.212 seconds
+[2025-04-01T17:20:26.104-0500] {processor.py:186} INFO - Started process (PID=6963) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:20:26.105-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:20:26.107-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:20:26.107-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:20:26.161-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:20:26.178-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:20:26.178-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:20:26.188-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:20:26.187-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:20:26.299-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.203 seconds
+[2025-04-01T17:21:19.011-0500] {processor.py:186} INFO - Started process (PID=6999) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:21:19.012-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:21:19.014-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:21:19.013-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:21:19.067-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:21:19.084-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:21:19.084-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:21:19.093-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:21:19.093-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:21:19.200-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.197 seconds
+[2025-04-01T17:22:09.717-0500] {processor.py:186} INFO - Started process (PID=7037) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:09.718-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:22:09.720-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:09.719-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:09.774-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:09.791-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:09.790-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:22:09.800-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:09.799-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:22:09.896-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.187 seconds
+[2025-04-01T17:22:56.419-0500] {processor.py:186} INFO - Started process (PID=7073) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:56.420-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:22:56.422-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:56.421-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:56.474-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:22:56.493-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:56.492-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:22:56.503-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:22:56.502-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:22:56.607-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.196 seconds
+[2025-04-01T17:23:45.326-0500] {processor.py:186} INFO - Started process (PID=7108) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:23:45.327-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:23:45.329-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:23:45.329-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:23:45.382-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:23:45.399-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:23:45.398-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:23:45.408-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:23:45.407-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:23:45.512-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.193 seconds
+[2025-04-01T17:24:32.283-0500] {processor.py:186} INFO - Started process (PID=7144) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:24:32.284-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:24:32.287-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:24:32.286-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:24:32.341-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:24:32.360-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:24:32.360-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:24:32.371-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:24:32.370-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:24:32.474-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.199 seconds
+[2025-04-01T17:25:18.356-0500] {processor.py:186} INFO - Started process (PID=7180) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:25:18.357-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:25:18.359-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:25:18.359-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:25:18.412-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:25:18.429-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:25:18.429-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:25:18.438-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:25:18.438-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:25:18.540-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.191 seconds
+[2025-04-01T17:26:09.465-0500] {processor.py:186} INFO - Started process (PID=7215) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:09.466-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:26:09.468-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:09.467-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:09.521-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:09.538-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:09.538-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:26:09.548-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:09.547-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:26:09.643-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.186 seconds
+[2025-04-01T17:26:56.452-0500] {processor.py:186} INFO - Started process (PID=7250) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:56.453-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:26:56.455-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:56.455-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:56.508-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:26:56.527-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:56.526-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:26:56.537-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:26:56.536-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:26:56.642-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.197 seconds
+[2025-04-01T17:27:43.340-0500] {processor.py:186} INFO - Started process (PID=7286) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:27:43.341-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:27:43.343-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:27:43.342-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:27:43.396-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:27:43.413-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:27:43.413-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:27:43.422-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:27:43.422-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:27:43.532-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.200 seconds
+[2025-04-01T17:28:30.685-0500] {processor.py:186} INFO - Started process (PID=7322) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:28:30.687-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:28:30.689-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:28:30.688-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:28:30.743-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:28:30.761-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:28:30.761-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:28:30.771-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:28:30.771-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:28:30.880-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.203 seconds
+[2025-04-01T17:29:12.288-0500] {processor.py:186} INFO - Started process (PID=7354) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:12.289-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:29:12.291-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:12.290-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:12.343-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:12.360-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:12.360-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:29:12.369-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:12.369-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:29:12.472-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.192 seconds
+[2025-04-01T17:29:58.077-0500] {processor.py:186} INFO - Started process (PID=7390) to work on /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:58.078-0500] {processor.py:914} INFO - Processing file /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-04-01T17:29:58.080-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:58.079-0500] {dagbag.py:588} INFO - Filling up the DagBag from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:58.133-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-04-01T17:29:58.150-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:58.150-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-01T17:29:58.159-0500] {logging_mixin.py:190} INFO - [2025-04-01T17:29:58.158-0500] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-04-01T17:29:58.257-0500] {processor.py:208} INFO - Processing /mnt/d/Universidad/ETL/Proyecto_airflow/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.188 seconds
