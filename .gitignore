@@ -1,1 +1,13 @@
+__pycache__/
+*.pyc
+logs/
+*.log
+*.err
+*.pid
+*.db
+*.sqlite
+airflow.cfg
+webserver_config.py
+airflow/
+*/airflow/
 venv
