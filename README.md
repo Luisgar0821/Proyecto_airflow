@@ -154,11 +154,11 @@ _Agregue aquí el enlace a un video donde se muestra el funcionamiento del pipel
 ## 📌 Autores
 
 **Luis Angel García**  
-*IA Student*
+*Estudiante de IA*
 
 **Yalany Willy Cardenas**  
-*IA Student*
+*Estudiante de IA*
 
 **Juliana Toro**  
-*IA Student*
+*Estudiante de IA*
 
