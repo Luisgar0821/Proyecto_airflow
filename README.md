@@ -151,7 +151,7 @@ _Agregue aquí el enlace a un video donde se muestra el funcionamiento del pipel
 
 ---
 
-## 📌 Autor
+## 📌 Autores
 
 **Luis Angel García**  
 *IA Student*
