@@ -117,19 +117,20 @@ pip install apache-airflow
 
 ## ▶️ Ejecución
 
-Exportar la ruta del proyecto como AIRFLOW_HOME:
+1. Ejecutar el notebook de carga inicial de datos para poblar la tabla staging.
+2. Exportar la ruta del proyecto como AIRFLOW_HOME:
 
 ```bash
 export AIRFLOW_HOME=~/Proyecto_airflow/airflow
 ```
 
-Inicializar el servidor web de Airflow:
+3. Inicializar el servidor web de Airflow:
 
 ```bash
 airflow standalone
 ```
 
-Luego, activar el DAG `etl_lung_cancer` desde la interfaz web de Airflow.
+4. Activar el DAG `etl_lung_cancer` desde la interfaz web de Airflow.
 
 ---
 
@@ -151,7 +152,7 @@ _Agregue aquí el enlace a un video donde se muestra el funcionamiento del pipel
 
 ---
 
-## 📌 Autores
+## 📌 Autor
 
 **Luis Angel García**  
 *Estudiante de IA*
