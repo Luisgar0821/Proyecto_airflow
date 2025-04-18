@@ -142,14 +142,6 @@ airflow standalone
 
 ---
 
-## 🎬 Video demostrativo
-
-_Agregue aquí el enlace a un video donde se muestra el funcionamiento del pipeline:_
-
-```
-[Ver video de demostración](enlace-al-video)
-```
-
 ---
 
 ## 📌 Autor
