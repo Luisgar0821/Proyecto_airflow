@@ -142,7 +142,7 @@ def leer_datos_lung_cancer_post(conn):
 
         if count == 0:
             print("La tabla 'lung_cancer_post' está vacía.")
-            return pd.DataFrame()  # Retorna un DataFrame vacío
+            return pd.DataFrame()  
         else:
             df = pd.read_sql("SELECT * FROM lung_cancer_post", conn)
             print(f"Se leyeron {len(df)} registros de 'lung_cancer_post'")

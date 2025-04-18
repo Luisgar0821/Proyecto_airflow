@@ -3,7 +3,7 @@ from datetime import datetime
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-# Importar tareas desde la carpeta tasks
+
 from tasks.extract_task import extract_from_postgres
 from tasks.transform import transform_data
 from tasks.load_dimensions import load_dimensions
